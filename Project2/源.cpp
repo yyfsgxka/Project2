@@ -14,7 +14,7 @@ int main()
 
 	if (frame.empty()) return 1;
 
-	//旋转-40.缩放尺度为
+	//旋转-10.缩放尺度为
 
 	float angle = -10, scale = 1;
 
